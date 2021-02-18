@@ -101,6 +101,6 @@ tests/triangle-vulkan
 tests/window
 tests/windows
 
-# Binaries
+# TomatoEngine-specific
 bin/
 bin-int/
